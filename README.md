@@ -1,4 +1,4 @@
 # LeetCode
 Practice makes perfect!
-
-Hi Humans!
+Hi Humans! :)
+You are good!
